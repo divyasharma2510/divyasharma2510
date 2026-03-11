@@ -123,7 +123,6 @@ This project uses **Machine Learning algorithms** to analyze historical power co
 
 ---
 
-🔗 https://github.com/divyasharma2510/AI_Resume_Screener.git
 <!--
 **divyasharma2510/divyasharma2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
