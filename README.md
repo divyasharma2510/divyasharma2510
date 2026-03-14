@@ -123,6 +123,24 @@ This project uses **Machine Learning algorithms** to analyze historical power co
 
 ---
 
+📱 PhonePe Wallet Clone – Full Stack Payment Application
+
+💻 Developed a full-stack digital wallet application inspired by real-world fintech platforms like PhonePe.
+
+⚛️ Built a responsive frontend using React to provide a clean and interactive user interface.
+
+🚀 Implemented backend APIs using Node.js and Express.js for handling authentication, wallet management, and transaction processing.
+
+🗄️ Integrated MySQL database to securely store user data, wallet balances, and transaction history.
+
+🔐 Implemented secure login and authentication using JSON Web Tokens (JWT).
+
+💸 Enabled peer-to-peer money transfer simulation between registered users with real-time balance updates.
+
+📜 Built transaction history tracking to display all previous wallet transfers.
+
+🔗 Tested RESTful APIs using Postman and managed development using Visual Studio Code.
+
 <!--
 **divyasharma2510/divyasharma2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
